@@ -1,0 +1,21 @@
+/*
+ * GitHub programming languages color dots in CSS
+ * 2021, Ivan Kmeťo
+ *
+ * CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
+ * https://creativecommons.org/publicdomain/zero/1.0/
+ */
+
+
+.lang {
+    height: 8px;
+    width: 8px;
+    background-color: #000000;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+
+.c { background-color: #555555 !important; }
+.cxx { background-color: #f34b7d !important; }
+.makefile { background-color: #427819 !important; }
