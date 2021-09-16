@@ -1,2 +1,2 @@
 # css-langdot
-GitHub programming languages color codes in CSS
+GitHub programming languages color dots in CSS
