@@ -18,4 +18,4 @@ Then use html code with typed-in programming language name:
 ```html
 <span class="lang javascript"></span> JavaScript
 ```
-Preview of all programming language color dots and their html codes can be found in file [index.html](index.html)
+Preview of all programming language color dots and their html codes can be found in file [list.html](list.html)
