@@ -1,6 +1,8 @@
 # CSS LangDot
 GitHub programming language color dots in CSS for your own website.
 
+![](preview.png)
+
 ## How to use
 
 Copy and include ```css/lang.css``` file in your project:
