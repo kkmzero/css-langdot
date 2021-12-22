@@ -131,6 +131,7 @@
 .dtrace { background-color: #cccccc !important; }
 .dylan { background-color: #6c616e !important; }
 .e { background-color: #ccce35 !important; }
+.earthly { background-color: #2af0ff !important; }
 .easybuild { background-color: #069406 !important; }
 .ec { background-color: #913960 !important; }
 .ecere-projects { background-color: #913960 !important; }
@@ -312,6 +313,7 @@
 .monkey { background-color: #cccccc !important; }
 .moocode { background-color: #cccccc !important; }
 .moonscript { background-color: #ff4585 !important; }
+.motoko { background-color: #fbb03b !important; }
 .motorola-68k-assembly { background-color: #005daa !important; }
 .mql4 { background-color: #62a8d6 !important; }
 .mql5 { background-color: #4a76b8 !important; }
@@ -388,6 +390,7 @@
 .prisma { background-color: #0c344b !important; }
 .processing { background-color: #0096d8 !important; }
 .prolog { background-color: #74283c !important; }
+.promela { background-color: #de0000 !important; }
 .propeller-spin { background-color: #7fa2a7 !important; }
 .pug { background-color: #a86454 !important; }
 .puppet { background-color: #302b6d !important; }
@@ -445,6 +448,7 @@
 .self { background-color: #0579aa !important; }
 .shaderlab { background-color: #222c37 !important; }
 .shell { background-color: #89e051 !important; }
+.shellcheck-config { background-color: #cecfcb !important; }
 .shellsession { background-color: #cccccc !important; }
 .shen { background-color: #120f14 !important; }
 .sieve { background-color: #cccccc !important; }
