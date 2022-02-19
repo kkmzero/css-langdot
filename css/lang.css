@@ -86,6 +86,7 @@
 .chuck { background-color: #3f8000 !important; }
 .cirru { background-color: #ccccff !important; }
 .clarion { background-color: #db901e !important; }
+.clarity { background-color: #5546ff !important; }
 .classic-asp { background-color: #6a40fd !important; }
 .clean { background-color: #3f85af !important; }
 .click { background-color: #e4e6f3 !important; }
@@ -114,6 +115,7 @@
 .csv { background-color: #237346 !important; }
 .cuda { background-color: #3a4e3a !important; }
 .cue { background-color: #5886e1 !important; }
+.curry { background-color: #531242 !important; }
 .cweb { background-color: #00007a !important; }
 .cycript { background-color: #cccccc !important; }
 .cython { background-color: #fedf5b !important; }
@@ -184,6 +186,7 @@
 .gherkin { background-color: #5b2063 !important; }
 .git-attributes { background-color: #f44d27 !important; }
 .git-config { background-color: #f44d27 !important; }
+.gleam { background-color: #ffaff3 !important; }
 .glsl { background-color: #5686a5 !important; }
 .glyph { background-color: #c1ac7f !important; }
 .gnuplot { background-color: #f0a9f0 !important; }
@@ -199,6 +202,7 @@
 .graphviz-dot { background-color: #2596be !important; }
 .groovy { background-color: #4298b8 !important; }
 .groovy-server-pages { background-color: #4298b8 !important; }
+.gsc { background-color: #ff6800 !important; }
 .hack { background-color: #878787 !important; }
 .haml { background-color: #ece2a9 !important; }
 .handlebars { background-color: #f7931e !important; }
@@ -210,6 +214,7 @@
 .hiveql { background-color: #dce200 !important; }
 .hlsl { background-color: #aace60 !important; }
 .holyc { background-color: #ffefaf !important; }
+.hoon { background-color: #00b171 !important; }
 .html { background-color: #e34c26 !important; }
 .html-ecr { background-color: #2e1052 !important; }
 .html-eex { background-color: #6e4a7e !important; }
@@ -233,6 +238,7 @@
 .isabelle { background-color: #fefe00 !important; }
 .isabelle-root { background-color: #fefe00 !important; }
 .j { background-color: #9eedff !important; }
+.janet { background-color: #0886a5 !important; }
 .jar-manifest { background-color: #b07219 !important; }
 .jasmin { background-color: #d03600 !important; }
 .java { background-color: #b07219 !important; }
@@ -303,6 +309,7 @@
 .meson { background-color: #007800 !important; }
 .metal { background-color: #8f14e9 !important; }
 .minid { background-color: #cccccc !important; }
+.mint { background-color: #02b046 !important; }
 .mirah { background-color: #c7a938 !important; }
 .mirc-script { background-color: #3d57c3 !important; }
 .mlir { background-color: #5ec8db !important; }
@@ -389,6 +396,7 @@
 .powershell { background-color: #012456 !important; }
 .prisma { background-color: #0c344b !important; }
 .processing { background-color: #0096d8 !important; }
+.procfile { background-color: #3b2f63 !important; }
 .prolog { background-color: #74283c !important; }
 .promela { background-color: #de0000 !important; }
 .propeller-spin { background-color: #7fa2a7 !important; }
@@ -432,6 +440,7 @@
 .roff-manpage { background-color: #ecdebe !important; }
 .rouge { background-color: #cc0088 !important; }
 .rpc { background-color: #cccccc !important; }
+.rpgle { background-color: #2bde21 !important; }
 .ruby { background-color: #701516 !important; }
 .runoff { background-color: #665a4e !important; }
 .rust { background-color: #dea584 !important; }
@@ -520,6 +529,7 @@
 .visual-basic-dotnet { background-color: #945db7 !important; }
 .volt { background-color: #1f1f1f !important; }
 .vue { background-color: #41b883 !important; }
+.vyper { background-color: #2980b9 !important; }
 .wdl { background-color: #42f1f4 !important; }
 .web-ontology-language { background-color: #5b70bd !important; }
 .webassembly { background-color: #04133b !important; }
@@ -527,6 +537,7 @@
 .wikitext { background-color: #fc5757 !important; }
 .windows-registry-entries { background-color: #52d5ff !important; }
 .wisp { background-color: #7582d1 !important; }
+.witcher-script { background-color: #ff0000 !important; }
 .wollok { background-color: #a23738 !important; }
 .world-of-warcraft-addon-data { background-color: #f7e43f !important; }
 .x10 { background-color: #4b6bef !important; }
