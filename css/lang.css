@@ -18,6 +18,7 @@
 
 
 .onec-enterprise { background-color: #814ccc !important; }
+.two-d-array { background-color: #38761d !important; }
 .four-d { background-color: #004289 !important; }
 .abap { background-color: #e8274b !important; }
 .abap-cds { background-color: #555e25 !important; }
@@ -124,6 +125,8 @@
 .darcs-patch { background-color: #8eff23 !important; }
 .dart { background-color: #00B4ab !important; }
 .dataweave { background-color: #003a52 !important; }
+.debian-package-control-file { background-color: #d70751 !important; }
+.denizenscript { background-color: #fbee96 !important; }
 .dhall { background-color: #dfafff !important; }
 .digital-command-language { background-color: #cccccc !important; }
 .directx-3d-file { background-color: #aace60 !important; }
@@ -148,6 +151,7 @@
 .emberscript { background-color: #fff4f3 !important; }
 .eq { background-color: #a78649 !important; }
 .erlang { background-color: #b83998 !important; }
+.euphoria { background-color: #ff790b !important; }
 .f-sharp { background-color: #b845fc !important; }
 .f-star { background-color: #572e30 !important; }
 .factor { background-color: #636746 !important; }
@@ -268,6 +272,7 @@
 .kicad-schematic { background-color: #2f4aab !important; }
 .kotlin { background-color: #a97bff !important; }
 .krl { background-color: #28430a !important; }
+.kvlang { background-color: #1da6e0 !important; }
 .labview { background-color: #fede06 !important; }
 .lark { background-color: #2980b9 !important; }
 .lasso { background-color: #999999 !important; }
@@ -309,6 +314,7 @@
 .meson { background-color: #007800 !important; }
 .metal { background-color: #8f14e9 !important; }
 .minid { background-color: #cccccc !important; }
+.miniyaml { background-color: #ff1111 !important; }
 .mint { background-color: #02b046 !important; }
 .mirah { background-color: #c7a938 !important; }
 .mirc-script { background-color: #3d57c3 !important; }
