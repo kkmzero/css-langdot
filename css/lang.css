@@ -61,6 +61,7 @@
 .batchfile { background-color: #c1f12e !important; }
 .beef { background-color: #a52f4e !important; }
 .befunge { background-color: #cccccc !important; }
+.berry { background-color: #15a13c !important; }
 .bibtex { background-color: #778899 !important; }
 .bicep { background-color: #519aba !important; }
 .bison { background-color: #6a463f !important; }
@@ -79,6 +80,7 @@
 .cxx { background-color: #f34b7d !important; }
 .c2hs-haskell { background-color: #cccccc !important; }
 .cabal-config { background-color: #483465 !important; }
+.cadence { background-color: #00ef8b !important; }
 .cairo { background-color: #ff4a48 !important; }
 .capn-proto { background-color: #c42727 !important; }
 .cartocss { background-color: #cccccc !important; }
@@ -183,6 +185,8 @@
 .gdscript { background-color: #355570 !important; }
 .gedcom { background-color: #003058 !important; }
 .gemfile-lock { background-color: #701516 !important; }
+.genero { background-color: #63408e !important; }
+.genero-forms { background-color: #d8df39 !important; }
 .genie { background-color: #fb855d !important; }
 .genshi { background-color: #951531 !important; }
 .gentoo-ebuild { background-color: #9400ff !important; }
@@ -325,6 +329,7 @@
 .modula-3 { background-color: #223388 !important; }
 .module-management-system { background-color: #cccccc !important; }
 .monkey { background-color: #cccccc !important; }
+.monkey-c { background-color: #8d6747 !important; }
 .moocode { background-color: #cccccc !important; }
 .moonscript { background-color: #ff4585 !important; }
 .motoko { background-color: #fbb03b !important; }
@@ -523,7 +528,7 @@
 .unrealscript { background-color: #a54c4d !important; }
 .urweb { background-color: #ccccee !important; }
 .v { background-color: #4f87c4 !important; }
-.vala { background-color: #fbe5cd !important; }
+.vala { background-color: #a56de2 !important; }
 .valve-data-format { background-color: #f26025 !important; }
 .vba { background-color: #867db1 !important; }
 .vbscript { background-color: #15dcdc !important; }
