@@ -83,6 +83,7 @@
 .cadence { background-color: #00ef8b !important; }
 .cairo { background-color: #ff4a48 !important; }
 .cameligo { background-color: #3be133 !important; }
+.cap-cds { background-color: #0092d1 !important; }
 .capn-proto { background-color: #c42727 !important; }
 .cartocss { background-color: #cccccc !important; }
 .ceylon { background-color: #dfa535 !important; }
@@ -257,6 +258,7 @@
 .javascript { background-color: #f1e05a !important; }
 .javascript-erb { background-color: #f1e05a !important; }
 .jest-snapshot { background-color: #15c213 !important; }
+.jetbrains-mps { background-color: #21d789 !important; }
 .jflex { background-color: #dbca00 !important; }
 .jinja { background-color: #a52a22 !important; }
 .jison { background-color: #56b3cb !important; }
@@ -403,6 +405,7 @@
 .plsql { background-color: #dad8d8 !important; }
 .pogoscript { background-color: #d80074 !important; }
 .pony { background-color: #cccccc !important; }
+.portugol { background-color: #f8bd00 !important; }
 .postcss { background-color: #dc3a0c !important; }
 .postscript { background-color: #da291c !important; }
 .pov-ray-sdl { background-color: #6bac65 !important; }
@@ -497,6 +500,7 @@
 .standard-ml { background-color: #dc566d !important; }
 .starlark { background-color: #76d275 !important; }
 .stata { background-color: #1a5f91 !important; }
+.stl { background-color: #373b5e !important; }
 .stringtemplate { background-color: #3fb34f !important; }
 .stylus { background-color: #ff6347 !important; }
 .subrip-text { background-color: #9e0101 !important; }
@@ -550,6 +554,7 @@
 .web-ontology-language { background-color: #5b70bd !important; }
 .webassembly { background-color: #04133b !important; }
 .webidl { background-color: #cccccc !important; }
+.whiley { background-color: #d5c397 !important; }
 .wikitext { background-color: #fc5757 !important; }
 .windows-registry-entries { background-color: #52d5ff !important; }
 .wisp { background-color: #7582d1 !important; }
