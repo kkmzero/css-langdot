@@ -35,6 +35,7 @@
 .ampl { background-color: #e6efbb !important; }
 .angelscript { background-color: #c7d7dc !important; }
 .ant-build-system { background-color: #a9157e !important; }
+.antlers { background-color: #ff269e !important; }
 .antlr { background-color: #9dc3ff !important; }
 .apacheconf { background-color: #d12127 !important; }
 .apex { background-color: #1797c0 !important; }
@@ -64,6 +65,7 @@
 .berry { background-color: #15a13c !important; }
 .bibtex { background-color: #778899 !important; }
 .bicep { background-color: #519aba !important; }
+.bikeshed { background-color: #5562ac !important; }
 .bison { background-color: #6a463f !important; }
 .bitbake { background-color: #00bce4 !important; }
 .blade { background-color: #f7523f !important; }
@@ -73,6 +75,7 @@
 .boo { background-color: #d4bec1 !important; }
 .boogie { background-color: #c80fa0 !important; }
 .brainfuck { background-color: #2f2530 !important; }
+.brighterscript { background-color: #66aabb !important; }
 .brightscript { background-color: #662d91 !important; }
 .browserslist { background-color: #ffd539 !important; }
 .c { background-color: #555555 !important; }
@@ -197,6 +200,7 @@
 .gherkin { background-color: #5b2063 !important; }
 .git-attributes { background-color: #f44d27 !important; }
 .git-config { background-color: #f44d27 !important; }
+.git-revision-list { background-color: #f44d27 !important; }
 .gleam { background-color: #ffaff3 !important; }
 .glsl { background-color: #5686a5 !important; }
 .glyph { background-color: #c1ac7f !important; }
@@ -524,11 +528,11 @@
 .toml { background-color: #9c4221 !important; }
 .tsql { background-color: #e38c00 !important; }
 .tsv { background-color: #237346 !important; }
-.tsx { background-color: #2b7489 !important; }
+.tsx { background-color: #3178c6 !important; }
 .turing { background-color: #cf142b !important; }
 .twig { background-color: #c1d026 !important; }
 .txl { background-color: #0178b8 !important; }
-.typescript { background-color: #2b7489 !important; }
+.typescript { background-color: #3178c6 !important; }
 .unified-parallel-c { background-color: #4e3617 !important; }
 .unity3d-asset { background-color: #222c37 !important; }
 .unix-assembly { background-color: #cccccc !important; }
