@@ -24,6 +24,7 @@
 .abap-cds { background-color: #555e25 !important; }
 .actionscript { background-color: #882b0f !important; }
 .ada { background-color: #02f88c !important; }
+.adblock-filter-list { background-color: #800000 !important; }
 .adobe-font-metrics { background-color: #fa0f00 !important; }
 .agda { background-color: #315665 !important; }
 .ags-script { background-color: #b9d9ff !important; }
@@ -155,6 +156,7 @@
 .ejs { background-color: #a91e50 !important; }
 .elixir { background-color: #6e4a7e !important; }
 .elm { background-color: #60b5cc !important; }
+.elvish { background-color: #55bb55 !important; }
 .emacs-lisp { background-color: #c065db !important; }
 .emberscript { background-color: #fff4f3 !important; }
 .eq { background-color: #a78649 !important; }
@@ -190,6 +192,7 @@
 .gdscript { background-color: #355570 !important; }
 .gedcom { background-color: #003058 !important; }
 .gemfile-lock { background-color: #701516 !important; }
+.gemini { background-color: #ff6900 !important; }
 .genero { background-color: #63408e !important; }
 .genero-forms { background-color: #d8df39 !important; }
 .genie { background-color: #fb855d !important; }
@@ -228,6 +231,7 @@
 .hcl { background-color: #cccccc !important; }
 .hiveql { background-color: #dce200 !important; }
 .hlsl { background-color: #aace60 !important; }
+.hocon { background-color: #9ff8ee !important; }
 .holyc { background-color: #ffefaf !important; }
 .hoon { background-color: #00b171 !important; }
 .html { background-color: #e34c26 !important; }
