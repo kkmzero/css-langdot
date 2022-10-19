@@ -392,6 +392,7 @@
 .openqasm { background-color: #aa70ff !important; }
 .openrc-runscript { background-color: #cccccc !important; }
 .openscad { background-color: #e5cd45 !important; }
+.option-list { background-color: #476732 !important; }
 .org { background-color: #77aa99 !important; }
 .ox { background-color: #cccccc !important; }
 .oxygene { background-color: #cdd0e3 !important; }
@@ -490,6 +491,7 @@
 .shellsession { background-color: #cccccc !important; }
 .shen { background-color: #120f14 !important; }
 .sieve { background-color: #cccccc !important; }
+.simple-file-verification { background-color: #c9bfed !important; }
 .singularity { background-color: #64e6ad !important; }
 .slash { background-color: #007eff !important; }
 .slice { background-color: #003fa2 !important; }
