@@ -1,7 +1,7 @@
 /*
  * CSS LangDot: GitHub programming language color dots in CSS
  * https://github.com/kkmzero/css-langdot
- * 2021 - 2022, Ivan Kmeťo
+ * 2021 - 2023, Ivan Kmeťo
  *
  * CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
  * https://creativecommons.org/publicdomain/zero/1.0/
@@ -70,7 +70,7 @@
 .bison { background-color: #6a463f !important; }
 .bitbake { background-color: #00bce4 !important; }
 .blade { background-color: #f7523f !important; }
-.blitzbasic { background-color:#00ffae  !important; }
+.blitzbasic { background-color: #00ffae !important; }
 .blitzmax { background-color: #cd6400 !important; }
 .bluespec { background-color: #12223c !important; }
 .boo { background-color: #d4bec1 !important; }
@@ -94,6 +94,7 @@
 .chapel { background-color: #8dc63f !important; }
 .charity { background-color: #cccccc !important; }
 .chuck { background-color: #3f8000 !important; }
+.circom { background-color: #707575 !important; }
 .cirru { background-color: #ccccff !important; }
 .clarion { background-color: #db901e !important; }
 .clarity { background-color: #5546ff !important; }
@@ -143,6 +144,7 @@
 .dm { background-color: #447265 !important; }
 .dockerfile { background-color: #384d54 !important; }
 .dogescript { background-color: #cca760 !important; }
+.dotenv { background-color: #e5d559 !important; }
 .dtrace { background-color: #cccccc !important; }
 .dylan { background-color: #6c616e !important; }
 .e { background-color: #ccce35 !important; }
@@ -180,7 +182,7 @@
 .forth { background-color: #341708 !important; }
 .fortran { background-color: #4d41b1 !important; }
 .fortran-free-form { background-color: #4d41b1 !important; }
-.freebasic { background-color: #867db1 !important; }
+.freebasic { background-color: #141ac9 !important; }
 .freemarker { background-color: #0050b2 !important; }
 .frege { background-color: #00cafe !important; }
 .futhark { background-color: #5f021f !important; }
@@ -213,6 +215,7 @@
 .go { background-color: #00add8 !important; }
 .go-checksums { background-color: #00add8 !important; }
 .go-module { background-color: #00add8 !important; }
+.godot-resource { background-color: #355570 !important; }
 .golo { background-color: #88562a !important; }
 .gosu { background-color: #82937f !important; }
 .grace { background-color: #615f8b !important; }
@@ -230,7 +233,7 @@
 .harbour { background-color: #0e60e3 !important; }
 .haskell { background-color: #5e5086 !important; }
 .haxe { background-color: #df7900 !important; }
-.hcl { background-color: #cccccc !important; }
+.hcl { background-color: #844fba !important; }
 .hiveql { background-color: #dce200 !important; }
 .hlsl { background-color: #aace60 !important; }
 .hocon { background-color: #9ff8ee !important; }
@@ -288,6 +291,7 @@
 .just { background-color: #384d54 !important; }
 .kaitai-struct { background-color: #773b37 !important; }
 .kakounescript { background-color: #6f8042 !important; }
+.kerboscript { background-color: #41adf0 !important; }
 .kicad-layout { background-color: #2f4aab !important; }
 .kicad-legacy-layout { background-color: #2f4aab !important; }
 .kicad-schematic { background-color: #2f4aab !important; }
@@ -425,6 +429,7 @@
 .picolisp { background-color: #6067af !important; }
 .piglatin { background-color: #fcd7de !important; }
 .pike { background-color: #005390 !important; }
+.plantuml { background-color: #fbbd16 !important; }
 .plpgsql { background-color: #336790 !important; }
 .plsql { background-color: #dad8d8 !important; }
 .pogoscript { background-color: #d80074 !important; }
@@ -446,6 +451,7 @@
 .puppet { background-color: #302b6d !important; }
 .purebasic { background-color: #5a6986 !important; }
 .purescript { background-color: #1d222d !important; }
+.pyret { background-color: #ee1e10 !important; }
 .python { background-color: #3572a5 !important; }
 .python-console { background-color: #3572a5 !important; }
 .python-traceback { background-color: #3572a5 !important; }
