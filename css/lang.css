@@ -161,6 +161,7 @@
 .elixir { background-color: #6e4a7e !important; }
 .elm { background-color: #60b5cc !important; }
 .elvish { background-color: #55bb55 !important; }
+.elvish-transcript { background-color: #55bb55 !important; }
 .emacs-lisp { background-color: #c065db !important; }
 .emberscript { background-color: #fff4f3 !important; }
 .eq { background-color: #a78649 !important; }
@@ -524,6 +525,7 @@
 .smithy { background-color: #c44536 !important; }
 .smpl { background-color: #c94949 !important; }
 .smt { background-color: #cccccc !important; }
+.snakemake { background-color: #419179 !important; }
 .solidity { background-color: #aa6746 !important; }
 .sourcepawn { background-color: #f69e1d !important; }
 .sparql { background-color: #0c4597 !important; }
