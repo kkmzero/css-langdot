@@ -132,6 +132,7 @@
 .cypher { background-color: #34c0eb !important; }
 .cython { background-color: #fedf5b !important; }
 .d { background-color: #ba595e !important; }
+.d2 { background-color: #526ee8 !important; }
 .dafny { background-color: #ffec25 !important; }
 .darcs-patch { background-color: #8eff23 !important; }
 .dart { background-color: #00B4ab !important; }
@@ -216,6 +217,7 @@
 .go { background-color: #00add8 !important; }
 .go-checksums { background-color: #00add8 !important; }
 .go-module { background-color: #00add8 !important; }
+.go-workspace { background-color: #00add8 !important; }
 .godot-resource { background-color: #355570 !important; }
 .golo { background-color: #88562a !important; }
 .gosu { background-color: #82937f !important; }
@@ -240,6 +242,7 @@
 .hocon { background-color: #9ff8ee !important; }
 .holyc { background-color: #ffefaf !important; }
 .hoon { background-color: #00b171 !important; }
+.hosts-file { background-color: #308888 !important; }
 .html { background-color: #e34c26 !important; }
 .html-ecr { background-color: #2e1052 !important; }
 .html-eex { background-color: #6e4a7e !important; }
@@ -338,6 +341,7 @@
 .max { background-color: #c4a79c !important; }
 .maxscript { background-color: #00a6a6 !important; }
 .mcfunction { background-color: #e22837 !important; }
+.mdx { background-color: #fcb32c !important; }
 .mercury { background-color: #ff2b2b !important; }
 .mermaid { background-color: #ff3670 !important; }
 .meson { background-color: #007800 !important; }
@@ -387,6 +391,7 @@
 .nu { background-color: #c9df40 !important; }
 .numpy { background-color: #9c8af9 !important; }
 .nunjucks { background-color: #3d8137 !important; }
+.nushell { background-color: #4e9906 !important; }
 .nwscript { background-color: #111522 !important; }
 .oasv2-json { background-color: #85ea2d !important; }
 .oasv2-yaml { background-color: #85ea2d !important; }
@@ -396,7 +401,7 @@
 .objective-cxx { background-color: #6866fb !important; }
 .objective-j { background-color: #ff0c5a !important; }
 .objectscript { background-color: #424893 !important; }
-.ocaml { background-color: #3be133 !important; }
+.ocaml { background-color: #ef7a08 !important; }
 .odin { background-color: #60affe !important; }
 .omgrofl { background-color: #cabbff !important; }
 .ooc { background-color: #b0b77e !important; }
@@ -416,6 +421,7 @@
 .oxygene { background-color: #cdd0e3 !important; }
 .oz { background-color: #fab738 !important; }
 .p4 { background-color: #7055b5 !important; }
+.pact { background-color: #f7a8b8 !important; }
 .pan { background-color: #cc0000 !important; }
 .papyrus { background-color: #6600cc !important; }
 .parrot { background-color: #f3ca0a !important; }
@@ -469,6 +475,7 @@
 .raku { background-color: #0000fb !important; }
 .raml { background-color: #77d9fb !important; }
 .rascal { background-color: #fffaa0 !important; }
+.rbs { background-color: #701516 !important; }
 .rdoc { background-color: #701516 !important; }
 .realbasic { background-color: #cccccc !important; }
 .reason { background-color: #ff5847 !important; }
@@ -559,6 +566,7 @@
 .textmate-properties { background-color: #df66e4 !important; }
 .thrift { background-color: #d12127 !important; }
 .ti-program { background-color: #a0aa87 !important; }
+.tl-verilog { background-color: #c40023 !important; }
 .tla { background-color: #4b0079 !important; }
 .toml { background-color: #9c4221 !important; }
 .tsql { background-color: #e38c00 !important; }
@@ -594,7 +602,9 @@
 .wdl { background-color: #42f1f4 !important; }
 .web-ontology-language { background-color: #5b70bd !important; }
 .webassembly { background-color: #04133b !important; }
+.webassembly-interface-type { background-color: #6250e7 !important; }
 .webidl { background-color: #cccccc !important; }
+.wgsl { background-color: #1a5e9a !important; }
 .whiley { background-color: #d5c397 !important; }
 .wikitext { background-color: #fc5757 !important; }
 .windows-registry-entries { background-color: #52d5ff !important; }
