@@ -157,6 +157,7 @@
 .ecl { background-color: #8a1267 !important; }
 .eclipse { background-color: #001d9d !important; }
 .ecmarkup { background-color: #eb8131 !important; }
+.edgeql { background-color: #31a7ff !important; }
 .editorconfig { background-color: #fff1f2 !important; }
 .eiffel { background-color: #4d6977 !important; }
 .ejs { background-color: #a91e50 !important; }
@@ -200,8 +201,8 @@
 .gedcom { background-color: #003058 !important; }
 .gemfile-lock { background-color: #701516 !important; }
 .gemini { background-color: #ff6900 !important; }
-.genero { background-color: #63408e !important; }
-.genero-forms { background-color: #d8df39 !important; }
+.genero-4gl { background-color: #63408e !important; }
+.genero-per { background-color: #d8df39 !important; }
 .genie { background-color: #fb855d !important; }
 .genshi { background-color: #951531 !important; }
 .gentoo-ebuild { background-color: #9400ff !important; }
@@ -212,6 +213,7 @@
 .git-config { background-color: #f44d27 !important; }
 .git-revision-list { background-color: #f44d27 !important; }
 .gleam { background-color: #ffaff3 !important; }
+.glimmer-js { background-color: #f5835f !important; }
 .glsl { background-color: #5686a5 !important; }
 .glyph { background-color: #c1ac7f !important; }
 .gnuplot { background-color: #f0a9f0 !important; }
@@ -310,6 +312,7 @@
 .lasso { background-color: #999999 !important; }
 .latte { background-color: #f2a542 !important; }
 .lean { background-color: #cccccc !important; }
+.lean4 { background-color: #cccccc !important; }
 .less { background-color: #1d365d !important; }
 .lex { background-color: #dbca00 !important; }
 .lfe { background-color: #4c3023 !important; }
@@ -451,6 +454,7 @@
 .pov-ray-sdl { background-color: #6bac65 !important; }
 .powerbuilder { background-color: #8f0f8d !important; }
 .powershell { background-color: #012456 !important; }
+.praat { background-color: #c8506d !important; }
 .prisma { background-color: #0c344b !important; }
 .processing { background-color: #0096d8 !important; }
 .procfile { background-color: #3b2f63 !important; }
@@ -556,7 +560,7 @@
 .supercollider { background-color: #46390b !important; }
 .svetle { background-color: #ff3e00 !important; }
 .svg { background-color: #ff9900 !important; }
-.sway { background-color: #dea584 !important; }
+.sway { background-color: #00f58c !important; }
 .sweave { background-color: #198ce7 !important; }
 .swift { background-color: #f05138 !important; }
 .swig { background-color: #cccccc !important; }
@@ -565,6 +569,7 @@
 .tcl { background-color: #e4cc98 !important; }
 .tcsh { background-color: #cccccc !important; }
 .terra { background-color: #00004c !important; }
+.terraform-template { background-color: #7b42bb !important; }
 .tex { background-color: #3d6117 !important; }
 .textile { background-color: #ffe7ac !important; }
 .textmate-properties { background-color: #df66e4 !important; }
@@ -572,6 +577,7 @@
 .ti-program { background-color: #a0aa87 !important; }
 .tl-verilog { background-color: #c40023 !important; }
 .tla { background-color: #4b0079 !important; }
+.toit { background-color: #c2c9fb !important; }
 .toml { background-color: #9c4221 !important; }
 .tsql { background-color: #e38c00 !important; }
 .tsv { background-color: #237346 !important; }
