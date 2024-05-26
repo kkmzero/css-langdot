@@ -157,6 +157,7 @@
 .ecl { background-color: #8a1267 !important; }
 .eclipse { background-color: #001d9d !important; }
 .ecmarkup { background-color: #eb8131 !important; }
+.edge { background-color: #0dffe0 !important; }
 .edgeql { background-color: #31a7ff !important; }
 .editorconfig { background-color: #fff1f2 !important; }
 .eiffel { background-color: #4d6977 !important; }
@@ -214,6 +215,7 @@
 .git-revision-list { background-color: #f44d27 !important; }
 .gleam { background-color: #ffaff3 !important; }
 .glimmer-js { background-color: #f5835f !important; }
+.glimmer-ts { background-color: #3178c6 !important; }
 .glsl { background-color: #5686a5 !important; }
 .glyph { background-color: #c1ac7f !important; }
 .gnuplot { background-color: #f0a9f0 !important; }
@@ -361,6 +363,7 @@
 .modula-2 { background-color: #10253f !important; }
 .modula-3 { background-color: #223388 !important; }
 .module-management-system { background-color: #cccccc !important; }
+.mojo { background-color: #ff4c1f !important; }
 .monkey { background-color: #cccccc !important; }
 .monkey-c { background-color: #8d6747 !important; }
 .moocode { background-color: #cccccc !important; }
@@ -402,6 +405,7 @@
 .oasv2-yaml { background-color: #85ea2d !important; }
 .oasv3-json { background-color: #85ea2d !important; }
 .oasv3-yaml { background-color: #85ea2d !important; }
+.oberon { background-color: #cccccc !important; }
 .objective-c { background-color: #438eff !important; }
 .objective-cxx { background-color: #6866fb !important; }
 .objective-j { background-color: #ff0c5a !important; }
@@ -442,6 +446,7 @@
 .picolisp { background-color: #6067af !important; }
 .piglatin { background-color: #fcd7de !important; }
 .pike { background-color: #005390 !important; }
+.pip-requirements { background-color: #ffd343 !important; }
 .plantuml { background-color: #fbbd16 !important; }
 .plpgsql { background-color: #336790 !important; }
 .plsql { background-color: #dad8d8 !important; }
@@ -501,6 +506,7 @@
 .riot { background-color: #a71e49 !important; }
 .rmarkdown { background-color: #198ce7 !important; }
 .robotframework { background-color: #00c0b5 !important; }
+.roc { background-color: #7c38f5 !important; }
 .roff { background-color: #ecdebe !important; }
 .roff-manpage { background-color: #ecdebe !important; }
 .rouge { background-color: #cc0088 !important; }
@@ -533,6 +539,7 @@
 .slash { background-color: #007eff !important; }
 .slice { background-color: #003fa2 !important; }
 .slim { background-color: #2b2b2b !important; }
+.slint { background-color: #2379f4 !important; }
 .smali { background-color: #cccccc !important; }
 .smalltalk { background-color: #596706 !important; }
 .smarty { background-color: #f0c040 !important; }
@@ -571,6 +578,7 @@
 .terra { background-color: #00004c !important; }
 .terraform-template { background-color: #7b42bb !important; }
 .tex { background-color: #3d6117 !important; }
+.textgrid { background-color: #c8506d !important; }
 .textile { background-color: #ffe7ac !important; }
 .textmate-properties { background-color: #df66e4 !important; }
 .thrift { background-color: #d12127 !important; }
