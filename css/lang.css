@@ -58,6 +58,7 @@
 .autoit { background-color: #1c3552 !important; }
 .avro-idl { background-color: #0040ff !important; }
 .awk { background-color: #c30e9b !important; }
+.b4x { background-color: #00e4ff !important; }
 .ballerina { background-color: #ff5000 !important; }
 .basic { background-color: #ff0000 !important; }
 .batchfile { background-color: #c1f12e !important; }
@@ -92,6 +93,7 @@
 .cameligo { background-color: #3be133 !important; }
 .cap-cds { background-color: #0092d1 !important; }
 .capn-proto { background-color: #c42727 !important; }
+.carbon { background-color: #222222 !important; }
 .cartocss { background-color: #cccccc !important; }
 .ceylon { background-color: #dfa535 !important; }
 .chapel { background-color: #8dc63f !important; }
@@ -133,6 +135,7 @@
 .curry { background-color: #531242 !important; }
 .cweb { background-color: #00007a !important; }
 .cycript { background-color: #cccccc !important; }
+.cylc { background-color: #00b3fd !important; }
 .cypher { background-color: #34c0eb !important; }
 .cython { background-color: #fedf5b !important; }
 .d { background-color: #ba595e !important; }
@@ -151,6 +154,7 @@
 .dogescript { background-color: #cca760 !important; }
 .dotenv { background-color: #e5d559 !important; }
 .dtrace { background-color: #cccccc !important; }
+.dune { background-color: #89421e !important; }
 .dylan { background-color: #6c616e !important; }
 .e { background-color: #ccce35 !important; }
 .earthly { background-color: #2af0ff !important; }
@@ -263,6 +267,7 @@
 .hxml { background-color: #f68712 !important; }
 .hy { background-color: #7790b2 !important; }
 .hyphy { background-color: #cccccc !important; }
+.icalendar { background-color: #ec564c !important; }
 .idl { background-color: #a3522f !important; }
 .idris { background-color: #b30000 !important; }
 .ignore-list { background-color: #000000 !important; }
@@ -284,6 +289,7 @@
 .java { background-color: #b07219 !important; }
 .java-properties { background-color: #2a6277 !important; }
 .java-server-pages { background-color: #2a6277 !important; }
+.java-template-engine { background-color: #2a6277 !important; }
 .javascript { background-color: #f1e05a !important; }
 .javascript-erb { background-color: #f1e05a !important; }
 .jcl { background-color: #d90e09 !important; }
@@ -330,6 +336,7 @@
 .literate-agda { background-color: #315665 !important; }
 .literate-coffeescript { background-color: #244776 !important; }
 .literate-haskell { background-color: #5e5086 !important; }
+.livecode-script { background-color: #0c5ba5 !important; }
 .livescript { background-color: #499886 !important; }
 .llvm { background-color: #185619 !important; }
 .logos { background-color: #cccccc !important; }
@@ -401,6 +408,7 @@
 .nit { background-color: #009917 !important; }
 .nix { background-color: #7e7eff !important; }
 .nmodl { background-color: #00356b !important; }
+.noir { background-color: #2f1f49 !important; }
 .npm-config { background-color: #cb3837 !important; }
 .nsis { background-color: #cccccc !important; }
 .nu { background-color: #c9df40 !important; }
@@ -616,6 +624,7 @@
 .valve-data-format { background-color: #f26025 !important; }
 .vba { background-color: #867db1 !important; }
 .vbscript { background-color: #15dcdc !important; }
+.vcard { background-color: #ee2647 !important; }
 .vcl { background-color: #148aa8 !important; }
 .velocity-template-language { background-color: #507cff !important; }
 .verilog { background-color: #b2b7f8 !important; }
