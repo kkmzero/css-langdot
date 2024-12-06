@@ -129,7 +129,7 @@
 .csound { background-color: #1a1a1a !important; }
 .csound-document { background-color: #1a1a1a !important; }
 .csound-score { background-color: #1a1a1a !important; }
-.css { background-color: #563d7c !important; }
+.css { background-color: #663399 !important; }
 .csv { background-color: #237346 !important; }
 .cuda { background-color: #3a4e3a !important; }
 .cue { background-color: #5886e1 !important; }
@@ -249,6 +249,7 @@
 .handlebars { background-color: #f7931e !important; }
 .haproxy { background-color: #106da9 !important; }
 .harbour { background-color: #0e60e3 !important; }
+.hare { background-color: #9d7424 !important; }
 .haskell { background-color: #5e5086 !important; }
 .haxe { background-color: #df7900 !important; }
 .hcl { background-color: #844fba !important; }
@@ -381,6 +382,7 @@
 .monkey { background-color: #cccccc !important; }
 .monkey-c { background-color: #8d6747 !important; }
 .moocode { background-color: #cccccc !important; }
+.moonbit { background-color: #b92381 !important; }
 .moonscript { background-color: #ff4585 !important; }
 .motoko { background-color: #fbb03b !important; }
 .motorola-68k-assembly { background-color: #005daa !important; }
@@ -429,6 +431,8 @@
 .ocaml { background-color: #ef7a08 !important; }
 .odin { background-color: #60affe !important; }
 .omgrofl { background-color: #cabbff !important; }
+.omnetpp-msg { background-color: #a0e0a0 !important; }
+.omnetpp-ned { background-color: #08607c !important; }
 .ooc { background-color: #b0b77e !important; }
 .opa { background-color: #cccccc !important; }
 .opal { background-color: #f7ede0 !important; }
@@ -497,6 +501,7 @@
 .qml { background-color: #44a51c !important; }
 .qt-script { background-color: #00b841 !important; }
 .quake { background-color: #882233 !important; }
+.quickbasic { background-color: #008080 !important; }
 .r { background-color: #198ce7 !important; }
 .racket { background-color: #3c5caa !important; }
 .ragel { background-color: #9d5200 !important; }
@@ -590,6 +595,7 @@
 .swift { background-color: #f05138 !important; }
 .swig { background-color: #cccccc !important; }
 .systemverilog { background-color: #dae1c2 !important; }
+.tact { background-color: #48b5ff !important; }
 .talon { background-color: #333333 !important; }
 .tcl { background-color: #e4cc98 !important; }
 .tcsh { background-color: #cccccc !important; }
@@ -613,6 +619,7 @@
 .twig { background-color: #c1d026 !important; }
 .txl { background-color: #0178b8 !important; }
 .typescript { background-color: #3178c6 !important; }
+.typespec { background-color: #4a3665 !important; }
 .typst { background-color: #239dad !important; }
 .unified-parallel-c { background-color: #4e3617 !important; }
 .unity3d-asset { background-color: #222c37 !important; }
