@@ -1,7 +1,7 @@
 /*
  * CSS LangDot: GitHub programming language color dots in CSS
  * https://github.com/kkmzero/css-langdot
- * 2021 - 2024, Ivan Kmeťo
+ * 2021 - 2025, Ivan Kmeťo
  *
  * CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
  * https://creativecommons.org/publicdomain/zero/1.0/
@@ -35,6 +35,7 @@
 .altium-designer { background-color: #a89663 !important; }
 .ampl { background-color: #e6efbb !important; }
 .angelscript { background-color: #c7d7dc !important; }
+.answer-set-programming { background-color: #a9cc29 !important; }
 .ant-build-system { background-color: #a9157e !important; }
 .antlers { background-color: #ff269e !important; }
 .antlr { background-color: #9dc3ff !important; }
@@ -315,6 +316,7 @@
 .just { background-color: #384d54 !important; }
 .kaitai-struct { background-color: #773b37 !important; }
 .kakounescript { background-color: #6f8042 !important; }
+.kdl { background-color: #ffb3b3 !important; }
 .kerboscript { background-color: #41adf0 !important; }
 .kicad-layout { background-color: #2f4aab !important; }
 .kicad-legacy-layout { background-color: #2f4aab !important; }
@@ -334,6 +336,7 @@
 .ligolang { background-color: #0e74ff !important; }
 .lilypond { background-color: #9ccc7c !important; }
 .limbo { background-color: #cccccc !important; }
+.linear-programming { background-color: #cccccc !important; }
 .liquid { background-color: #67b8de !important; }
 .literate-agda { background-color: #315665 !important; }
 .literate-coffeescript { background-color: #244776 !important; }
@@ -363,6 +366,7 @@
 .max { background-color: #c4a79c !important; }
 .maxscript { background-color: #00a6a6 !important; }
 .mcfunction { background-color: #e22837 !important; }
+.mdsvex { background-color: #5f9ea0 !important; }
 .mdx { background-color: #fcb32c !important; }
 .mercury { background-color: #ff2b2b !important; }
 .mermaid { background-color: #ff3670 !important; }
@@ -370,6 +374,7 @@
 .metal { background-color: #8f14e9 !important; }
 .minid { background-color: #cccccc !important; }
 .miniyaml { background-color: #ff1111 !important; }
+.minizinc { background-color: #06a9e6 !important; }
 .mint { background-color: #02b046 !important; }
 .mirah { background-color: #c7a938 !important; }
 .mirc-script { background-color: #3d57c3 !important; }
@@ -446,6 +451,7 @@
 .openscad { background-color: #e5cd45 !important; }
 .option-list { background-color: #476732 !important; }
 .org { background-color: #77aa99 !important; }
+.overpassql { background-color: #cce2aa !important; }
 .ox { background-color: #cccccc !important; }
 .oxygene { background-color: #cdd0e3 !important; }
 .oz { background-color: #fab738 !important; }
@@ -588,7 +594,8 @@
 .subrip-text { background-color: #9e0101 !important; }
 .sugarss { background-color: #2fcc9f !important; }
 .supercollider { background-color: #46390b !important; }
-.svetle { background-color: #ff3e00 !important; }
+.survex-data { background-color: #ffcc99 !important; }
+.svelte { background-color: #ff3e00 !important; }
 .svg { background-color: #ff9900 !important; }
 .sway { background-color: #00f58c !important; }
 .sweave { background-color: #198ce7 !important; }
