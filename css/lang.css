@@ -67,6 +67,7 @@
 .befunge { background-color: #cccccc !important; }
 .berry { background-color: #15a13c !important; }
 .bibtex { background-color: #778899 !important; }
+.bibtex-style { background-color: #cccccc !important; }
 .bicep { background-color: #519aba !important; }
 .bikeshed { background-color: #5562ac !important; }
 .bison { background-color: #6a463f !important; }
@@ -623,6 +624,7 @@
 .tla { background-color: #4b0079 !important; }
 .toit { background-color: #c2c9fb !important; }
 .toml { background-color: #9c4221 !important; }
+.tree-sitter-query { background-color: #8ea64c !important; }
 .tsql { background-color: #e38c00 !important; }
 .tsv { background-color: #237346 !important; }
 .tsx { background-color: #3178c6 !important; }
