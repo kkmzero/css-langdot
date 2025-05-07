@@ -124,7 +124,6 @@
 .common-workflow-language { background-color: #b5314c !important; }
 .component-pascal { background-color: #b0ce4e !important; }
 .cool { background-color: #cccccc !important; }
-.coq { background-color: #d0b68c !important; }
 .crontab { background-color: #ead7ac !important; }
 .crystal { background-color: #000100 !important; }
 .cson { background-color: #244776 !important; }
@@ -255,6 +254,7 @@
 .haskell { background-color: #5e5086 !important; }
 .haxe { background-color: #df7900 !important; }
 .hcl { background-color: #844fba !important; }
+.hip { background-color: #4f3a4f !important; }
 .hiveql { background-color: #dce200 !important; }
 .hlsl { background-color: #aace60 !important; }
 .hocon { background-color: #9ff8ee !important; }
@@ -324,6 +324,7 @@
 .kicad-layout { background-color: #2f4aab !important; }
 .kicad-legacy-layout { background-color: #2f4aab !important; }
 .kicad-schematic { background-color: #2f4aab !important; }
+.koka { background-color: #215166 !important; }
 .kotlin { background-color: #a97bff !important; }
 .krl { background-color: #28430a !important; }
 .kvlang { background-color: #1da6e0 !important; }
@@ -357,6 +358,7 @@
 .lua { background-color: #000080 !important; }
 .luau { background-color: #00a2ff !important; }
 .m { background-color: #cccccc !important; }
+.m3u { background-color: #179c7d !important; }
 .m4 { background-color: #cccccc !important; }
 .m4sugar { background-color: #cccccc !important; }
 .macaulay2 { background-color: #d8ffff !important; }
@@ -539,6 +541,7 @@
 .rmarkdown { background-color: #198ce7 !important; }
 .robotframework { background-color: #00c0b5 !important; }
 .roc { background-color: #7c38f5 !important; }
+.rocq-prover { background-color: #d0b68c !important; }
 .roff { background-color: #ecdebe !important; }
 .roff-manpage { background-color: #ecdebe !important; }
 .ron { background-color: #a62c00 !important; }
@@ -550,6 +553,7 @@
 .runoff { background-color: #665a4e !important; }
 .rust { background-color: #dea584 !important; }
 .sage { background-color: #cccccc !important; }
+.sail { background-color: #259dd5 !important; }
 .saltstack { background-color: #646464 !important; }
 .sas { background-color: #b34936 !important; }
 .sass { background-color: #a53b70 !important; }
