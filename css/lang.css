@@ -29,6 +29,7 @@
 .agda { background-color: #315665 !important; }
 .ags-script { background-color: #b9d9ff !important; }
 .aidl { background-color: #34eb6b !important; }
+.aiken { background-color: #640ff8 !important; }
 .al { background-color: #3aa2b5 !important; }
 .alloy { background-color: #64c800 !important; }
 .alpine-abuild { background-color: #0d597f !important; }
@@ -114,6 +115,7 @@
 .clojure { background-color: #db5855 !important; }
 .closure-templates { background-color: #0d948f !important; }
 .cloud-firestore-security-rules { background-color: #ffa000 !important; }
+.clue { background-color: #0009b5 !important; }
 .cmake { background-color: #da3434 !important; }
 .cobol { background-color: #cccccc !important; }
 .codeql { background-color: #140f46 !important; }
@@ -146,6 +148,7 @@
 .dafny { background-color: #ffec25 !important; }
 .darcs-patch { background-color: #8eff23 !important; }
 .dart { background-color: #00B4ab !important; }
+.daslang { background-color: #d3d3d3 !important; }
 .dataweave { background-color: #003a52 !important; }
 .debian-package-control-file { background-color: #d70751 !important; }
 .denizenscript { background-color: #fbee96 !important; }
@@ -335,6 +338,7 @@
 .latte { background-color: #f2a542 !important; }
 .lean { background-color: #cccccc !important; }
 .lean4 { background-color: #cccccc !important; }
+.leo { background-color: #6814ec !important; }
 .less { background-color: #1d365d !important; }
 .lex { background-color: #dbca00 !important; }
 .lfe { background-color: #4c3023 !important; }
@@ -629,6 +633,7 @@
 .tla { background-color: #4b0079 !important; }
 .toit { background-color: #c2c9fb !important; }
 .toml { background-color: #9c4221 !important; }
+.tor-config { background-color: #59316b !important; }
 .tree-sitter-query { background-color: #8ea64c !important; }
 .tsql { background-color: #e38c00 !important; }
 .tsv { background-color: #237346 !important; }
@@ -644,6 +649,7 @@
 .unix-assembly { background-color: #cccccc !important; }
 .uno { background-color: #9933cc !important; }
 .unrealscript { background-color: #a54c4d !important; }
+.untyped-plutus-core { background-color: #36adbd !important; }
 .urweb { background-color: #ccccee !important; }
 .v { background-color: #4f87c4 !important; }
 .vala { background-color: #a56de2 !important; }
@@ -702,3 +708,4 @@
 .zig { background-color: #ec915c !important; }
 .zil { background-color: #dc75e5 !important; }
 .zimpl { background-color: #d67711 !important; }
+.zmodel { background-color: #ff7100 !important; }
