@@ -213,6 +213,7 @@
 .gcc-machine-description { background-color: #ffcfab !important; }
 .gdb { background-color: #cccccc !important; }
 .gdscript { background-color: #355570 !important; }
+.gdshader { background-color: #478cbf !important; }
 .gedcom { background-color: #003058 !important; }
 .gemfile-lock { background-color: #701516 !important; }
 .gemini { background-color: #ff6900 !important; }
@@ -338,7 +339,7 @@
 .latte { background-color: #f2a542 !important; }
 .lean { background-color: #cccccc !important; }
 .lean4 { background-color: #cccccc !important; }
-.leo { background-color: #6814ec !important; }
+.leo { background-color: #c4ffc2 !important; }
 .less { background-color: #1d365d !important; }
 .lex { background-color: #dbca00 !important; }
 .lfe { background-color: #4c3023 !important; }
@@ -659,6 +660,7 @@
 .vcard { background-color: #ee2647 !important; }
 .vcl { background-color: #148aa8 !important; }
 .velocity-template-language { background-color: #507cff !important; }
+.vento { background-color: #ff0080 !important; }
 .verilog { background-color: #b2b7f8 !important; }
 .vhdl { background-color: #adb2cb !important; }
 .vim-help-file { background-color: #199f4b !important; }
