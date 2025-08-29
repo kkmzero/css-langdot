@@ -90,6 +90,7 @@
 .cs { background-color: #178600 !important; }
 .cxx { background-color: #f34b7d !important; }
 .c2hs-haskell { background-color: #cccccc !important; }
+.c3 { background-color: #2563eb !important; }
 .cabal-config { background-color: #483465 !important; }
 .caddyfile { background-color: #22b638 !important; }
 .cadence { background-color: #00ef8b !important; }
@@ -552,6 +553,7 @@
 .roff { background-color: #ecdebe !important; }
 .roff-manpage { background-color: #ecdebe !important; }
 .ron { background-color: #a62c00 !important; }
+.ros-interface { background-color: #22314e !important; }
 .rouge { background-color: #cc0088 !important; }
 .routeros-script { background-color: #de3941 !important; }
 .rpc { background-color: #cccccc !important; }
