@@ -99,6 +99,7 @@
 .cairo { background-color: #ff4a48 !important; }
 .cairo-zero { background-color: #ff4a48 !important; }
 .cameligo { background-color: #3be133 !important; }
+.cangjie { background-color: #00868b !important; }
 .cap-cds { background-color: #0092d1 !important; }
 .capn-proto { background-color: #c42727 !important; }
 .carbon { background-color: #222222 !important; }
@@ -279,6 +280,7 @@
 .html-php { background-color: #4f5d95 !important; }
 .html-razor { background-color: #512be4 !important; }
 .http { background-color: #005c9c !important; }
+.hurl { background-color: #ff0288 !important; }
 .hxml { background-color: #f68712 !important; }
 .hy { background-color: #7790b2 !important; }
 .hyphy { background-color: #cccccc !important; }
@@ -380,7 +382,6 @@
 .markdown { background-color: #083fa1 !important; }
 .marko { background-color: #42bff2 !important; }
 .mask { background-color: #f97732 !important; }
-.mathematica { background-color: #dd1100 !important; }
 .matlab { background-color: #e16737 !important; }
 .max { background-color: #c4a79c !important; }
 .maxscript { background-color: #00a6a6 !important; }
@@ -631,6 +632,7 @@
 .talon { background-color: #333333 !important; }
 .tcl { background-color: #e4cc98 !important; }
 .tcsh { background-color: #cccccc !important; }
+.teal { background-color: #00b1bc !important; }
 .templ { background-color: #66d0dd !important; }
 .terra { background-color: #00004c !important; }
 .terraform-template { background-color: #7b42bb !important; }
@@ -692,6 +694,7 @@
 .windows-registry-entries { background-color: #52d5ff !important; }
 .wisp { background-color: #7582d1 !important; }
 .witcher-script { background-color: #ff0000 !important; }
+.wolfram-language { background-color: #dd1100 !important; }
 .wollok { background-color: #a23738 !important; }
 .world-of-warcraft-addon-data { background-color: #f7e43f !important; }
 .wren { background-color: #383838 !important; }
