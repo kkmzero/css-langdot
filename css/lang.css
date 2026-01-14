@@ -1,7 +1,7 @@
 /*
  * CSS LangDot: GitHub programming language color dots in CSS
  * https://github.com/kkmzero/css-langdot
- * 2021 - 2025, Ivan Kmeťo
+ * 2021 - 2026, Ivan Kmeťo
  *
  * CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
  * https://creativecommons.org/publicdomain/zero/1.0/
@@ -244,6 +244,7 @@
 .go { background-color: #00add8 !important; }
 .go-checksums { background-color: #00add8 !important; }
 .go-module { background-color: #00add8 !important; }
+.go-template { background-color: #00add8 !important; }
 .go-workspace { background-color: #00add8 !important; }
 .godot-resource { background-color: #355570 !important; }
 .golo { background-color: #88562a !important; }
@@ -332,8 +333,10 @@
 .just { background-color: #384d54 !important; }
 .kaitai-struct { background-color: #773b37 !important; }
 .kakounescript { background-color: #6f8042 !important; }
+.kcl { background-color: #7ababf !important; }
 .kdl { background-color: #ffb3b3 !important; }
 .kerboscript { background-color: #41adf0 !important; }
+.kframework { background-color: #4195c5 !important; }
 .kicad-layout { background-color: #2f4aab !important; }
 .kicad-legacy-layout { background-color: #2f4aab !important; }
 .kicad-schematic { background-color: #2f4aab !important; }
@@ -343,6 +346,7 @@
 .krl { background-color: #28430a !important; }
 .kvlang { background-color: #1da6e0 !important; }
 .labview { background-color: #fede06 !important; }
+.langium { background-color: #2c8c87 !important; }
 .lark { background-color: #2980b9 !important; }
 .lasso { background-color: #999999 !important; }
 .latte { background-color: #f2a542 !important; }
