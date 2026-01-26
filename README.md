@@ -25,3 +25,7 @@ Then use html code with typed-in programming language name:
 </br>
 
 Preview of all programming language color dots and their html codes can be found in file [list.html](list.html).
+
+## License
+
+CSS LangDot is licensed under the [Creative Commons Zero v1.0 Universal](LICENSE) license.
