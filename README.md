@@ -1,4 +1,8 @@
 # CSS LangDot
+
+> [!WARNING]  
+> This repository was moved to Codeberg and it will be deleted from GitHub in the near future. You can find it at https://codeberg.org/kkmzero/css-langdot
+
 Programming language color dots in CSS for your own website.
 
 ![](preview.png)
